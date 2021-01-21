@@ -4,11 +4,8 @@
 
 ## Team Members
 
-- Chase Walker
-- Anjali Ramsahai
-- Christopher Gray
-- Omer Gul
-- Alisher Sultangazin
+- Ali Veli
+- Mahmut
 
 
 # Sprint 1
